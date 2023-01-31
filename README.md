@@ -12,8 +12,8 @@ Cela permet d'étudier la pertinence de cet indicateur pour la prédiction.
 * Le notebook **ElHouri_Marwa_4_prediction_consommation_07_2022** présente les recherches de la meilleure méthode de regression 
 et l'interpretation des résultats pour la consommation d'énergie dans les batimements.
 * Le fichier pdf **ElHouri_Marwa_5_presentation_07_2022** est la présentation du projet.
-## Compétences
-* Netoyage des données
+## Notions traitées
+* Nettoyage des données
 * Utilisation de la librairie **Feature Engine** pour la selection des variables
 * Analyse exploratoire
 * Transformation des variables (StandardScaler, FunctionTransformer, BackwardDifferenceEncoder, ..)
